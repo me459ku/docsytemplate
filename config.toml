@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://me459ku.github.io/docsytemplate"
 title = "Goldydocs"
 
 enableRobotsTXT = true
